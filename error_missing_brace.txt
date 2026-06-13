@@ -1,3 +1,0 @@
-TASK missingBrace {
-  RUN "test.sh"
-  EVERY DAY AT 03:00

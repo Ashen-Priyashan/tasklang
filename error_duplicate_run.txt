@@ -1,5 +1,0 @@
-TASK duplicateRun {
-  RUN "one.sh"
-  RUN "two.sh"
-  EVERY DAY AT 07:00
-}

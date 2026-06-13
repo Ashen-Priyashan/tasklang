@@ -1,5 +1,0 @@
-TASK unknownDep {
-  RUN "a.sh"
-  EVERY DAY AT 04:00
-  AFTER notDefinedTask
-}

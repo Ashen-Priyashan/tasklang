@@ -1,4 +1,0 @@
-TASK wrongSchedule {
-  RUN "test.sh"
-  EVERY DAY AT
-}

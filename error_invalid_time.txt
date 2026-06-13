@@ -1,4 +1,0 @@
-TASK invalidTime {
-  RUN "bad.sh"
-  EVERY DAY AT 25:00
-}
