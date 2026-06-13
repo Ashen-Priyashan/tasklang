@@ -1,0 +1,4 @@
+Task invalidKeyword {
+  RUN "test.sh"
+  EVERY DAY AT 02:00
+}

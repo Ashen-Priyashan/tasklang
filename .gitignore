@@ -1,0 +1,22 @@
+# Generated parser/lexer files
+lex.yy.c
+parser.tab.c
+parser.tab.h
+parser.tab.o
+
+# Compiled executable
+tasklang
+
+# Build artifacts
+*.o
+*.a
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
